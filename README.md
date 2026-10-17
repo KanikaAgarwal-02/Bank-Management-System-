@@ -55,5 +55,8 @@ A simple console-based Bank Management System built using Python and MySQL.
 ### Exit
 ![Exit](screenshots/exit.png)
 
+### Database 
+![Database](screenshots/database.png)
+
 ## Author
 Kanika Agarwal
